@@ -1,0 +1,1 @@
+This project is intended to be used for learning Go
